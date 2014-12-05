@@ -101,6 +101,10 @@ Plugins are organized by section and ordered alphabetically.
 * [JavascriptLibrariesSyntax](https://github.com/othree/javascript-libraries-syntax.vim)
 * [TernForVim](https://github.com/marijnh/tern_for_vim)
 
+### PHP
+
+* [PDV](https://github.com/tobyS/pdv) - PHP documentor for Vim
+
 ### Python
 
 * [PythonMode](https://github.com/klen/python-mode)

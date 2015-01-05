@@ -128,3 +128,4 @@ Plugins are organized by section and ordered alphabetically.
 ## Websites
 
 * [Vim Bootstrap](http://vim-bootstrap.com/)
+* [usevim](http://usevim.com/)

@@ -129,3 +129,4 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Vim Bootstrap](http://vim-bootstrap.com/)
 * [usevim](http://usevim.com/)
+* [Vim Awesome](http://vimawesome.com/)

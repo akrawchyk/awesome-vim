@@ -124,3 +124,9 @@ Plugins are organized by section and ordered alphabetically.
 ### Rails
 
 * [Rails](https://github.com/tpope/vim-rails)
+
+## Websites
+
+* [Vim Bootstrap](http://vim-bootstrap.com/)
+* [usevim](http://usevim.com/)
+* [Vim Awesome](http://vimawesome.com/)

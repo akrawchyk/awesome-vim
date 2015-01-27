@@ -70,6 +70,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Syntastic](https://github.com/scrooloose/syntastic)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+* [Neocomplete](https://github.com/Shougo/neocomplete.vim)
 
 
 ## Language Specific

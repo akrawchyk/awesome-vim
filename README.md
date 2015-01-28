@@ -75,9 +75,11 @@ Plugins are organized by section and ordered alphabetically.
 
 ## Language Specific
 
+* [Polyglot](https://github.com/sheerun/vim-polyglot)
+
 ### CSS/SCSS/LESS
 
-* [CSS3Syntax](https://github.com/hail2u/vim-css3-syntax)
+* [CSS3Syntax](https://github.com/JulesWang/css.vim)
 * [Less](https://github.com/groenewege/vim-less)
 * [SCSSSyntax](https://github.com/cakebaker/scss-syntax.vim)
 
@@ -89,6 +91,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [HTML5](https://github.com/othree/html5.vim)
 * [MatchTagAlways](https://github.com/valloric/MatchTagAlways)
+* [xmledit](https://github.com/sukima/xmledit/)
 
 ### Java
 
@@ -104,7 +107,8 @@ Plugins are organized by section and ordered alphabetically.
 
 ### PHP
 
-* [PDV](https://github.com/tobyS/pdv) - PHP documentor for Vim
+* [php](https://github.com/StanAngeloff/php.vim)
+* [PDV](https://github.com/tobyS/pdv)
 
 ### Python
 

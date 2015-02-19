@@ -109,6 +109,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [php](https://github.com/StanAngeloff/php.vim)
 * [PDV](https://github.com/tobyS/pdv)
+* [Laravel Blade](https://github.com/xsbeats/vim-blade)
 
 ### Python
 

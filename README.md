@@ -79,17 +79,10 @@ Plugins are organized by section and ordered alphabetically.
 
 ### CSS/SCSS/LESS
 
-* [CSS3Syntax](https://github.com/JulesWang/css.vim)
-* [Less](https://github.com/groenewege/vim-less)
 * [SCSSSyntax](https://github.com/cakebaker/scss-syntax.vim)
-
-### Go
-
-* [Go](https://github.com/fatih/vim-go)
 
 ### HTML
 
-* [HTML5](https://github.com/othree/html5.vim)
 * [MatchTagAlways](https://github.com/valloric/MatchTagAlways)
 * [xmledit](https://github.com/sukima/xmledit/)
 
@@ -99,15 +92,11 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Javascript
 
-* [Handlebars](https://github.com/nono/vim-handlebars)
-* [Jade](https://github.com/digitaltoad/vim-jade)
-* [Javascript](https://github.com/pangloss/vim-javascript)
 * [JavascriptLibrariesSyntax](https://github.com/othree/javascript-libraries-syntax.vim)
 * [TernForVim](https://github.com/marijnh/tern_for_vim)
 
 ### PHP
 
-* [php](https://github.com/StanAngeloff/php.vim)
 * [PDV](https://github.com/tobyS/pdv)
 
 ### Python
@@ -117,7 +106,6 @@ Plugins are organized by section and ordered alphabetically.
 ### Ruby
 
 * [Endwise](https://github.com/tpope/vim-endwise)
-* [Ruby](https://github.com/vim-ruby/vim-ruby)
 
 
 ## Framework Specific

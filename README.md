@@ -7,12 +7,14 @@ Plugins are organized by section and ordered alphabetically.
 * [Neobundle](https://github.com/Shougo/neobundle.vim)
 * [Pathogen](https://github.com/tpope/vim-pathogen)
 * [VAM](https://github.com/MarcWeber/vim-addon-manager)
+* [Vim-plug](https://github.com/junegunn/vim-plug)
 * [Vundle](https://github.com/gmarik/Vundle.vim)
 
 
 ## Colors
 
 * [Base16](https://github.com/chriskempson/base16-vim/)
+* [Jellybeans](https://github.com/nanotech/jellybeans.vim)
 * [Molokai](https://github.com/tomasr/molokai)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
 

@@ -4,6 +4,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ## Table of Contents
 
+  1. [Learning Vim](#learning-vim)
   1. [Plugin Management](#plugin-management)
   1. [Colors](#colors)
   1. [Tools](#tools)
@@ -12,6 +13,15 @@ Plugins are organized by section and ordered alphabetically.
   1. [Websites](#websites)
   1. [Contributing](#contributing)
   1. [License](#license)
+
+
+## Learning Vim
+
+* [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
+* [Vim Adventures](http://vim-adventures.com/)
+* [Vim Tips](http://zzapper.co.uk/vimtips.html)
 
 
 ## Plugin Management
@@ -50,6 +60,7 @@ Plugins are organized by section and ordered alphabetically.
 * [TextobjIndent](https://github.com/kana/vim-textobj-indent)
 * [TextobjUser](https://github.com/kana/vim-textobj-user)
 * [TextobjWordColumn](https://github.com/coderifous/textobj-word-column.vim)
+* [Trailer Trash](https://github.com/csexton/trailertrash.vim)
 * [Unimpaired](https://github.com/tpope/vim-unimpaired)
 * [YankStack](https://github.com/maxbrunsfeld/vim-yankstack)
 
@@ -126,6 +137,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Django
 
+* [htmldjango autocomplete](https://github.com/mjbrownie/vim-htmldjango_omnicomplete)
 * [Pony](https://github.com/jmcomets/vim-pony/)
 
 ### Rails
@@ -137,6 +149,8 @@ Plugins are organized by section and ordered alphabetically.
 * [Vim Bootstrap](http://vim-bootstrap.com/)
 * [usevim](http://usevim.com/)
 * [Vim Awesome](http://vimawesome.com/)
+* [Vivify](http://bytefluent.com/vivify/)
+* [/r/vim](http://www.reddit.com/r/vim)
 
 ## Contributing
 

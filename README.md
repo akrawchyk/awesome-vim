@@ -2,6 +2,18 @@
 
 Plugins are organized by section and ordered alphabetically.
 
+## Table of Contents
+
+  1. [Plugin Management](#plugin-management)
+  1. [Colors](#colors)
+  1. [Tools](#tools)
+  1. [Language Specific](#language-specific)
+  1. [Framework Specific](#framework-specific)
+  1. [Websites](#websites)
+  1. [Contributing](#contributing)
+  1. [License](#license)
+
+
 ## Plugin Management
 
 * [Neobundle](https://github.com/Shougo/neobundle.vim)
@@ -125,3 +137,11 @@ Plugins are organized by section and ordered alphabetically.
 * [Vim Bootstrap](http://vim-bootstrap.com/)
 * [usevim](http://usevim.com/)
 * [Vim Awesome](http://vimawesome.com/)
+
+## Contributing
+
+* Please read the [contribution guidelines](https://github.com/akrawchyk/awesome-vim/blob/master/contributing.md)
+
+## License
+
+* [MIT License](https://github.com/akrawchyk/awesome-vim/blob/master/LICENSE)

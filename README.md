@@ -56,6 +56,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Sneak](https://github.com/justinmk/vim-sneak)
 * [Surround](https://github.com/tpope/vim-surround)
 * [Tabular](https://github.com/godlygeek/tabular)
+* [Targets](https://github.com/wellle/targets.vim)
 * [TComment](https://github.com/tomtom/tcomment_vim)
 * [TextobjIndent](https://github.com/kana/vim-textobj-indent)
 * [TextobjUser](https://github.com/kana/vim-textobj-user)

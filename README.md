@@ -10,6 +10,7 @@ Plugins are organized by section and ordered alphabetically.
   1. [Tools](#tools)
   1. [Language Specific](#language-specific)
   1. [Framework Specific](#framework-specific)
+  1. [Distributions](#distributions)
   1. [Websites](#websites)
   1. [Contributing](#contributing)
   1. [License](#license)
@@ -145,6 +146,10 @@ Plugins are organized by section and ordered alphabetically.
 ### Rails
 
 * [Rails](https://github.com/tpope/vim-rails)
+
+## Distributions
+
+* [janus](https://github.com/carlhuda/janus)
 
 ## Websites
 

@@ -149,7 +149,8 @@ Plugins are organized by section and ordered alphabetically.
 
 ## Distributions
 
-* [janus](https://github.com/carlhuda/janus)
+* [Janus](https://github.com/carlhuda/janus)
+* [spf13](https://github.com/spf13/spf13-vim)
 
 ## Websites
 

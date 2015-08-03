@@ -94,9 +94,10 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Syntax/Completion
 
-* [Syntastic](https://github.com/scrooloose/syntastic)
-* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 * [Neocomplete](https://github.com/Shougo/neocomplete.vim)
+* [Syntastic](https://github.com/scrooloose/syntastic)
+* [TmuxComplete](https://github.com/wellle/tmux-complete.vim)
+* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 
 
 ## Language Specific

@@ -36,6 +36,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ## Colors
 
+* [Apprentice](https://github.com/romainl/Apprentice)
 * [Base16](https://github.com/chriskempson/base16-vim/)
 * [Jellybeans](https://github.com/nanotech/jellybeans.vim)
 * [Molokai](https://github.com/tomasr/molokai)

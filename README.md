@@ -50,6 +50,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Abolish](https://github.com/tpope/vim-abolish)
 * [Align](https://github.com/vim-scripts/Align)
 * [DelimitMate](https://github.com/Raimondi/delimitMate)
+* [EditorConfig](https://github.com/editorconfig/editorconfig-vim)
 * [ExpandRegion](https://github.com/terryma/vim-expand-region)
 * [Gundo](https://github.com/sjl/gundo.vim)
 * [IndentGuides](https://github.com/nathanaelkane/vim-indent-guides)

@@ -23,6 +23,7 @@ Plugins are organized by section and ordered alphabetically.
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
 * [Vim Adventures](http://vim-adventures.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
+* [Interactive tutorial for Vim](http://www.openvim.com/tutorial.html)
 
 
 ## Plugin Management

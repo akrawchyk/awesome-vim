@@ -126,6 +126,10 @@ Plugins are organized by section and ordered alphabetically.
 * [JavascriptLibrariesSyntax](https://github.com/othree/javascript-libraries-syntax.vim)
 * [TernForVim](https://github.com/marijnh/tern_for_vim)
 
+### Markdown
+
+* [vim-markdown](https://github.com/plasticboy/vim-markdown)
+
 ### PHP
 
 * [PDV](https://github.com/tobyS/pdv)

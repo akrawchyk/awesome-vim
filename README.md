@@ -75,12 +75,12 @@ Plugins are organized by section and ordered alphabetically.
 ### Git
 
 * [Fugitive](https://github.com/tpope/vim-fugitive)
-* [Signify](https://github.com/mhinz/vim-signify)
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 
 ### Interface
 
 * [Airline](https://github.com/bling/vim-airline)
+* [Signify](https://github.com/mhinz/vim-signify)
 
 ### Searching
 

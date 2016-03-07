@@ -81,6 +81,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Airline](https://github.com/bling/vim-airline)
 * [Signify](https://github.com/mhinz/vim-signify)
+* [vim-lastplace](https://github.com/dietsche/vim-lastplace)
 
 ### Searching
 

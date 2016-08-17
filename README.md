@@ -107,6 +107,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ## Language Specific
 
+* [Codi](https://github.com/metakirby5/codi.vim)
 * [Polyglot](https://github.com/sheerun/vim-polyglot)
 
 ### CSS/SCSS/LESS

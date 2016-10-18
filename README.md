@@ -22,6 +22,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
 * [Vim Adventures](http://vim-adventures.com/)
+* [Vim Genius](http://www.vimgenius.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
 
 

@@ -89,6 +89,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Ag](https://github.com/rking/ag.vim)
 * [CtrlP](https://github.com/kien/ctrlp.vim)
+* [vim-codequery](https://github.com/devjoe/vim-codequery)
 
 ### Task Running
 

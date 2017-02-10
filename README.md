@@ -72,7 +72,9 @@ Plugins are organized by section and ordered alphabetically.
 
 ### File Management
 
+* [Dirvish}(https://github.com/justinmk/vim-dirvish)
 * [NERDTree](https://github.com/scrooloose/nerdtree)
+* [Vinegar](https://github.com/tpope/vim-vinegar)
 
 ### Git
 
@@ -88,7 +90,7 @@ Plugins are organized by section and ordered alphabetically.
 ### Searching
 
 * [Ag](https://github.com/rking/ag.vim)
-* [CtrlP](https://github.com/kien/ctrlp.vim)
+* [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
 * [vim-codequery](https://github.com/devjoe/vim-codequery)
 
 ### Task Running
@@ -102,6 +104,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Syntax/Completion
 
+* [Asynchronous Lint Engine](https://github.com/w0rp/ale)
 * [Neocomplete](https://github.com/Shougo/neocomplete.vim)
 * [Syntastic](https://github.com/scrooloose/syntastic)
 * [TmuxComplete](https://github.com/wellle/tmux-complete.vim)

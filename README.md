@@ -123,11 +123,8 @@ Plugins are organized by section and ordered alphabetically.
 ### HTML
 
 * [MatchTagAlways](https://github.com/valloric/MatchTagAlways)
-* [xmledit](https://github.com/sukima/xmledit/)
-
-### Ionic 2
-
 * [vim-ionic2](https://github.com/akz92/vim-ionic2)
+* [xmledit](https://github.com/sukima/xmledit/)
 
 ### Java
 

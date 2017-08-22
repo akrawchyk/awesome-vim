@@ -42,6 +42,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Jellybeans](https://github.com/nanotech/jellybeans.vim)
 * [Molokai](https://github.com/tomasr/molokai)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
+* [Mahewincs](https://github.com/vim-scripts/Mahewincs)
 
 
 ## Tools

@@ -129,6 +129,7 @@ Plugins are organized by section and ordered alphabetically.
 ### Java
 
 * [Eclim](http://eclim.org/)
+* [Ensime](http://ensime.org/editors/vim/)
 
 ### Javascript
 

@@ -140,6 +140,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [vim-markdown](https://github.com/plasticboy/vim-markdown)
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown)
+* [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 
 ### PHP
 

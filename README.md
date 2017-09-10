@@ -148,6 +148,7 @@ Plugins are organized by section and ordered alphabetically.
 ### Python
 
 * [PythonMode](https://github.com/klen/python-mode)
+* [PieCrumbs](https://github.com/and3rson/piecrumbs)
 
 ### Ruby
 

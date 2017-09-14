@@ -188,3 +188,6 @@ Plugins are organized by section and ordered alphabetically.
 ## License
 
 * [MIT License](https://github.com/akrawchyk/awesome-vim/blob/master/LICENSE)
+
+
+Shameless plug for my vimrc [akrawchyk/dotfiles](https://github.com/akrawchyk/dotfiles/tree/master/vim).

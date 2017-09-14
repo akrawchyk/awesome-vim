@@ -24,6 +24,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Vim Adventures](http://vim-adventures.com/)
 * [Vim Genius](http://www.vimgenius.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
+* [Fortune vimtips](https://github.com/hobbestigrou/vimtips-fortune)
 
 
 ## Plugin Management

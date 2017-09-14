@@ -5,26 +5,27 @@ Plugins are organized by section and ordered alphabetically.
 ## Table of Contents
 
   1. [Learning Vim](#learning-vim)
-  1. [Plugin Management](#plugin-management)
-  1. [Colors](#colors)
-  1. [Tools](#tools)
-  1. [Language Specific](#language-specific)
-  1. [Framework Specific](#framework-specific)
-  1. [Distributions](#distributions)
-  1. [Websites](#websites)
-  1. [Contributing](#contributing)
-  1. [License](#license)
+  2. [Plugin Management](#plugin-management)
+  3. [Colors](#colors)
+  4. [Tools](#tools)
+  5. [Language Specific](#language-specific)
+  6. [Framework Specific](#framework-specific)
+  7. [Distributions](#distributions)
+  8. [Websites](#websites)
+  9. [Contributing](#contributing)
+  10. [License](#license)
 
 
 ## Learning Vim
 
 * [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Adventures](http://vim-adventures.com/)
 * [Vim Genius](http://www.vimgenius.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
 * [Fortune vimtips](https://github.com/hobbestigrou/vimtips-fortune)
+* [Vim Galore](https://github.com/mhinz/vim-galore)
 
 
 ## Plugin Management
@@ -84,7 +85,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Interface
 
-* [Airline](https://github.com/bling/vim-airline)
+* [Airline](https://github.com/bling/vim-airline) + [Airline Themes](https://github.com/vim-airline/vim-airline-themes)
 * [Signify](https://github.com/mhinz/vim-signify)
 * [vim-lastplace](https://github.com/dietsche/vim-lastplace)
 

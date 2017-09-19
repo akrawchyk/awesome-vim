@@ -86,8 +86,9 @@ Plugins are organized by section and ordered alphabetically.
 ### Interface
 
 * [Airline](https://github.com/bling/vim-airline) + [Airline Themes](https://github.com/vim-airline/vim-airline-themes)
+* [vim-lastplace](https://github.com/farmergreg/vim-lastplace)
 * [Signify](https://github.com/mhinz/vim-signify)
-* [vim-lastplace](https://github.com/dietsche/vim-lastplace)
+* [Startify](https://github.com/mhinz/vim-startify)
 
 ### Searching
 

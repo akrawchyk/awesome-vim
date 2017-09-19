@@ -91,7 +91,7 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Searching
 
-* [Ag](https://github.com/rking/ag.vim)
+* [Ack](https://github.com/mileszs/ack.vim)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
 * [vim-codequery](https://github.com/devjoe/vim-codequery)
 

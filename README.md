@@ -99,6 +99,11 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Dispatch](https://github.com/tpope/vim-dispatch)
 
+### Text Navigation
+
+* [EasyMotion](https://github.com/easymotion/vim-easymotion)
+* [Sneak](https://github.com/justinmk/vim-sneak)
+
 ### Snippets
 
 * [Snippets](https://github.com/honza/vim-snippets)

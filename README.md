@@ -57,6 +57,7 @@ Plugins are organized by section and ordered alphabetically.
 * [ExpandRegion](https://github.com/terryma/vim-expand-region)
 * [Gundo](https://github.com/sjl/gundo.vim)
 * [IndentGuides](https://github.com/nathanaelkane/vim-indent-guides)
+* [Jumparound](https://github.com/suewonjp/vim-jumparound)
 * [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 * [Repeat](https://github.com/tpope/vim-repeat)
 * [Sneak](https://github.com/justinmk/vim-sneak)

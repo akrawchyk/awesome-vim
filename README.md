@@ -184,6 +184,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Vim Awesome](http://vimawesome.com/)
 * [Vivify](http://bytefluent.com/vivify/)
 * [/r/vim](http://www.reddit.com/r/vim)
+* [Vimcasts](http://vimcasts.org/)
 
 ## Contributing
 

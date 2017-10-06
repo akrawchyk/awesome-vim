@@ -67,7 +67,6 @@ Plugins are organized by section and ordered alphabetically.
 * [TextobjIndent](https://github.com/kana/vim-textobj-indent)
 * [TextobjUser](https://github.com/kana/vim-textobj-user)
 * [TextobjWordColumn](https://github.com/coderifous/textobj-word-column.vim)
-* [Trailer Trash](https://github.com/csexton/trailertrash.vim)
 * [Unimpaired](https://github.com/tpope/vim-unimpaired)
 * [VisualSplit](https://github.com/wellle/visual-split.vim)
 * [YankStack](https://github.com/maxbrunsfeld/vim-yankstack)

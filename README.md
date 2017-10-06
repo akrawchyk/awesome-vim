@@ -59,7 +59,6 @@ Plugins are organized by section and ordered alphabetically.
 * [IndentGuides](https://github.com/nathanaelkane/vim-indent-guides)
 * [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 * [Repeat](https://github.com/tpope/vim-repeat)
-* [Sneak](https://github.com/justinmk/vim-sneak)
 * [Surround](https://github.com/tpope/vim-surround)
 * [Tabular](https://github.com/godlygeek/tabular)
 * [Targets](https://github.com/wellle/targets.vim)
@@ -98,6 +97,11 @@ Plugins are organized by section and ordered alphabetically.
 ### Task Running
 
 * [Dispatch](https://github.com/tpope/vim-dispatch)
+
+### Text Navigation
+
+* [EasyMotion](https://github.com/easymotion/vim-easymotion)
+* [Sneak](https://github.com/justinmk/vim-sneak)
 
 ### Snippets
 

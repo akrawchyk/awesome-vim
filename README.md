@@ -93,6 +93,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Ack](https://github.com/mileszs/ack.vim)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
 * [vim-codequery](https://github.com/devjoe/vim-codequery)
+* [MRU](https://github.com/yegappan/mru)
 
 ### Task Running
 
@@ -181,7 +182,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Vim Bootstrap](http://vim-bootstrap.com/)
 * [usevim](http://usevim.com/)
-* [Vim Awesome](http://vimawesome.com/)
+Adding vimcasts in websites section.* [Vim Awesome](http://vimawesome.com/)
 * [Vivify](http://bytefluent.com/vivify/)
 * [/r/vim](http://www.reddit.com/r/vim)
 * [Vimcasts](http://vimcasts.org/)

@@ -103,6 +103,10 @@ Plugins are organized by section and ordered alphabetically.
 * [EasyMotion](https://github.com/easymotion/vim-easymotion)
 * [Sneak](https://github.com/justinmk/vim-sneak)
 
+### Tips
+
+* [vim-tips](https://github.com/jonatasbaldin/vim-tips)
+
 ### Snippets
 
 * [Snippets](https://github.com/honza/vim-snippets)

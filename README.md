@@ -26,6 +26,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
 * [Fortune vimtips](https://github.com/hobbestigrou/vimtips-fortune)
 * [Vim Galore](https://github.com/mhinz/vim-galore)
+* [Programming Community Curated Resources For Learning Vim](https://hackr.io/tutorials/learn-vim)
 
 
 ## Plugin Management

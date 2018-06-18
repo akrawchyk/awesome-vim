@@ -177,7 +177,6 @@ Plugins are organized by section and ordered alphabetically.
 ## Websites
 
 * [Vim Bootstrap](http://vim-bootstrap.com/)
-* [usevim](http://usevim.com/)
 * [Vim Awesome](http://vimawesome.com/)
 * [Vivify](http://bytefluent.com/vivify/)
 * [/r/vim](http://www.reddit.com/r/vim)

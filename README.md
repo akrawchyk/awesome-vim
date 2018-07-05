@@ -93,6 +93,7 @@ Plugins are organized by section and ordered alphabetically.
 * [Ack](https://github.com/mileszs/ack.vim)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
 * [vim-codequery](https://github.com/devjoe/vim-codequery)
+* [MRU](https://github.com/yegappan/mru)
 
 ### Task Running
 

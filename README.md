@@ -123,15 +123,10 @@ Plugins are organized by section and ordered alphabetically.
 * [Codi](https://github.com/metakirby5/codi.vim)
 * [Polyglot](https://github.com/sheerun/vim-polyglot)
 
-### CSS/SCSS/LESS
-
-* [SCSSSyntax](https://github.com/cakebaker/scss-syntax.vim)
-
 ### HTML
 
 * [MatchTagAlways](https://github.com/valloric/MatchTagAlways)
 * [vim-ionic2](https://github.com/akz92/vim-ionic2)
-* [xmledit](https://github.com/sukima/xmledit/)
 
 ### Java
 
@@ -145,7 +140,6 @@ Plugins are organized by section and ordered alphabetically.
 
 ### Markdown
 
-* [vim-markdown](https://github.com/plasticboy/vim-markdown)
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown)
 * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 
@@ -161,6 +155,9 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Endwise](https://github.com/tpope/vim-endwise)
 
+### XML
+
+* [xmledit](https://github.com/sukima/xmledit/)
 
 ## Framework Specific
 
@@ -181,8 +178,7 @@ Plugins are organized by section and ordered alphabetically.
 ## Websites
 
 * [Vim Bootstrap](http://vim-bootstrap.com/)
-* [usevim](http://usevim.com/)
-Adding vimcasts in websites section.* [Vim Awesome](http://vimawesome.com/)
+* [Vim Awesome](http://vimawesome.com/)
 * [Vivify](http://bytefluent.com/vivify/)
 * [/r/vim](http://www.reddit.com/r/vim)
 * [Vimcasts](http://vimcasts.org/)

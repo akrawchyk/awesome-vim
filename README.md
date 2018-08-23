@@ -1,6 +1,6 @@
 # Awesome Vim
 
-Plugins are organized by section and ordered alphabetically.
+Plugins organized by section and ordered alphabetically.
 
 ## Table of Contents
 
@@ -92,6 +92,8 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Ack](https://github.com/mileszs/ack.vim)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
+* [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim)
+* [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ([highly recommended](https://github.com/junegunn/fzf#tips) to use [fd](https://github.com/sharkdp/fd) and [ripgrep](https://github.com/BurntSushi/ripgrep))
 * [vim-codequery](https://github.com/devjoe/vim-codequery)
 * [MRU](https://github.com/yegappan/mru)
 
@@ -174,6 +176,7 @@ Plugins are organized by section and ordered alphabetically.
 
 * [Janus](https://github.com/carlhuda/janus)
 * [spf13](https://github.com/spf13/spf13-vim)
+* [spacevim](https://github.com/SpaceVim/SpaceVim)
 
 ## Websites
 

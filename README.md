@@ -69,6 +69,7 @@ Plugins organized by section and ordered alphabetically.
 * [Unimpaired](https://github.com/tpope/vim-unimpaired)
 * [VisualSplit](https://github.com/wellle/visual-split.vim)
 * [YankStack](https://github.com/maxbrunsfeld/vim-yankstack)
+* [DoGe](https://github.com/kkoomen/vim-doge)
 
 ### File Management
 

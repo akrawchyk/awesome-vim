@@ -53,6 +53,7 @@ Plugins organized by section and ordered alphabetically.
 * [Abolish](https://github.com/tpope/vim-abolish)
 * [Align](https://github.com/vim-scripts/Align)
 * [DelimitMate](https://github.com/Raimondi/delimitMate)
+* [DoGe](https://github.com/kkoomen/vim-doge)
 * [EditorConfig](https://github.com/editorconfig/editorconfig-vim)
 * [ExpandRegion](https://github.com/terryma/vim-expand-region)
 * [Gundo](https://github.com/sjl/gundo.vim)
@@ -60,16 +61,15 @@ Plugins organized by section and ordered alphabetically.
 * [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 * [Repeat](https://github.com/tpope/vim-repeat)
 * [Surround](https://github.com/tpope/vim-surround)
+* [TComment](https://github.com/tomtom/tcomment_vim)
 * [Tabular](https://github.com/godlygeek/tabular)
 * [Targets](https://github.com/wellle/targets.vim)
-* [TComment](https://github.com/tomtom/tcomment_vim)
 * [TextobjIndent](https://github.com/kana/vim-textobj-indent)
 * [TextobjUser](https://github.com/kana/vim-textobj-user)
 * [TextobjWordColumn](https://github.com/coderifous/textobj-word-column.vim)
 * [Unimpaired](https://github.com/tpope/vim-unimpaired)
 * [VisualSplit](https://github.com/wellle/visual-split.vim)
 * [YankStack](https://github.com/maxbrunsfeld/vim-yankstack)
-* [DoGe](https://github.com/kkoomen/vim-doge)
 
 ### File Management
 

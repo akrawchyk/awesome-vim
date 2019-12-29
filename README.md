@@ -101,6 +101,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Task Running
 
+* [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 * [Dispatch](https://github.com/tpope/vim-dispatch)
 
 ### Text Navigation

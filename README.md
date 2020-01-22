@@ -160,6 +160,10 @@ Plugins organized by section and ordered alphabetically.
 
 * [Endwise](https://github.com/tpope/vim-endwise)
 
+### SQL
+
+* [vim-mysql-plugin](https://github.com/kezhenxu94/vim-mysql-plugin)
+
 ### XML
 
 * [xmledit](https://github.com/sukima/xmledit/)

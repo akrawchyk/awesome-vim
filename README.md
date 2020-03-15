@@ -41,8 +41,10 @@ Plugins organized by section and ordered alphabetically.
 
 * [Apprentice](https://github.com/romainl/Apprentice)
 * [Base16](https://github.com/chriskempson/base16-vim/)
+* [Gruvbox](https://github.com/morhetz/gruvbox)
 * [Jellybeans](https://github.com/nanotech/jellybeans.vim)
 * [Molokai](https://github.com/tomasr/molokai)
+* [onedark](https://github.com/joshdick/onedark.vim)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
 
 

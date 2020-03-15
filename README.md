@@ -118,6 +118,7 @@ Plugins organized by section and ordered alphabetically.
 ### Syntax/Completion
 
 * [Asynchronous Lint Engine](https://github.com/w0rp/ale)
+* [Coc](https://github.com/neoclide/coc.nvim)
 * [Neocomplete](https://github.com/Shougo/neocomplete.vim)
 * [Syntastic](https://github.com/scrooloose/syntastic)
 * [TmuxComplete](https://github.com/wellle/tmux-complete.vim)
@@ -137,12 +138,10 @@ Plugins organized by section and ordered alphabetically.
 ### Java
 
 * [Eclim](http://eclim.org/)
-* [Ensime](http://ensime.org/editors/vim/)
 
 ### Javascript
 
 * [JavascriptLibrariesSyntax](https://github.com/othree/javascript-libraries-syntax.vim)
-* [TernForVim](https://github.com/marijnh/tern_for_vim)
 
 ### Markdown
 

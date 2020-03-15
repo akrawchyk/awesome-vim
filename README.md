@@ -93,6 +93,7 @@ Plugins organized by section and ordered alphabetically.
 ### Searching
 
 * [Ack](https://github.com/mileszs/ack.vim)
+* [Any-jump.vim](https://github.com/pechorin/any-jump.vim)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim)
 * [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ([highly recommended](https://github.com/junegunn/fzf#tips) to use [fd](https://github.com/sharkdp/fd) and [ripgrep](https://github.com/BurntSushi/ripgrep))

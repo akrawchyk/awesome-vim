@@ -147,9 +147,9 @@ Plugins organized by section and ordered alphabetically.
 
 ### Markdown
 
+* [markdown-drawer](https://github.com/Scuilion/markdown-drawer)
 * [vim-instant-markdown](https://github.com/suan/vim-instant-markdown)
 * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
-* [markdown-drawer](https://github.com/Scuilion/markdown-drawer)
 
 ### PHP
 

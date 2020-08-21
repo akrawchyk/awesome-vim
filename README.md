@@ -132,6 +132,10 @@ Plugins organized by section and ordered alphabetically.
 * [Codi](https://github.com/metakirby5/codi.vim)
 * [Polyglot](https://github.com/sheerun/vim-polyglot)
 
+### Golang
+
+* [vim-go](https://github.com/fatih/vim-go)
+
 ### HTML
 
 * [MatchTagAlways](https://github.com/valloric/MatchTagAlways)

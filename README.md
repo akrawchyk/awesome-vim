@@ -22,6 +22,7 @@ Plugins organized by section and ordered alphabetically.
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Adventures](http://vim-adventures.com/)
+* [Vim Doctor](https://github.com/adembudak/vim-doctor)
 * [Vim Genius](http://www.vimgenius.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
 * [Fortune vimtips](https://github.com/hobbestigrou/vimtips-fortune)

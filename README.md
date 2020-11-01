@@ -121,6 +121,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Syntax/Completion
 
+* [TabNine](https://github.com/codota/tabnine-vim)
 * [Asynchronous Lint Engine](https://github.com/w0rp/ale)
 * [Coc](https://github.com/neoclide/coc.nvim)
 * [Neocomplete](https://github.com/Shougo/neocomplete.vim)

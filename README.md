@@ -108,6 +108,7 @@ Plugins organized by section and ordered alphabetically.
 
 * [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 * [Dispatch](https://github.com/tpope/vim-dispatch)
+* [vim-test](https://github.com/vim-test/vim-test)
 
 ### Text Navigation
 

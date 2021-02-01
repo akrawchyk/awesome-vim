@@ -49,6 +49,7 @@ Plugins organized by section and ordered alphabetically.
 * [Molokai](https://github.com/tomasr/molokai)
 * [onedark](https://github.com/joshdick/onedark.vim)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
+* [simple-dark](https://github.com/tek256/simple-dark)
 
 
 ## Tools

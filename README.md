@@ -101,6 +101,7 @@ Plugins organized by section and ordered alphabetically.
 * [Ack](https://github.com/mileszs/ack.vim)
 * [Any-jump.vim](https://github.com/pechorin/any-jump.vim)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
+* [CtrlSF](https://github.com/dyng/ctrlsf.vim)
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim)
 * [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ([highly recommended](https://github.com/junegunn/fzf#tips) to use [fd](https://github.com/sharkdp/fd) and [ripgrep](https://github.com/BurntSushi/ripgrep))
 * [vim-codequery](https://github.com/devjoe/vim-codequery)

@@ -130,6 +130,7 @@ Plugins organized by section and ordered alphabetically.
 * [Neocomplete](https://github.com/Shougo/neocomplete.vim)
 * [Syntastic](https://github.com/scrooloose/syntastic)
 * [TmuxComplete](https://github.com/wellle/tmux-complete.vim)
+* [Vim Codex](https://github.com/tom-doerr/vim_codex)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 
 

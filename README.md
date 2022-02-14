@@ -194,6 +194,7 @@ Plugins organized by section and ordered alphabetically.
 
 ## Distributions
 
+* [7th Vim](https://github.com/dofy/7th-vim)
 * [init.nvim](https://github.com/Blacksuan19/init.nvim)
 * [Janus](https://github.com/carlhuda/janus)
 * [spf13](https://github.com/spf13/spf13-vim)

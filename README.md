@@ -198,6 +198,7 @@ Plugins organized by section and ordered alphabetically.
 * [Janus](https://github.com/carlhuda/janus)
 * [spf13](https://github.com/spf13/spf13-vim)
 * [spacevim](https://github.com/SpaceVim/SpaceVim)
+* [VimPlus](https://github.com/chxuan/vimplus)
 
 ## Websites
 

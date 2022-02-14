@@ -21,6 +21,7 @@ Plugins organized by section and ordered alphabetically.
 * [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Learning Vim (Chinese)](https://github.com/dofy/learn-vim)
 * [Vim Adventures](http://vim-adventures.com/)
 * [Vim Doctor](https://github.com/adembudak/vim-doctor)
 * [Vim Genius](http://www.vimgenius.com/)
@@ -28,7 +29,6 @@ Plugins organized by section and ordered alphabetically.
 * [Fortune vimtips](https://github.com/hobbestigrou/vimtips-fortune)
 * [Vim Galore](https://github.com/mhinz/vim-galore)
 * [PacVim](https://github.com/jmoon018/PacVim)
-* [Learning Vim (Chinese)](https://github.com/dofy/learn-vim)
 
 
 ## Plugin Management
@@ -195,11 +195,11 @@ Plugins organized by section and ordered alphabetically.
 
 ## Distributions
 
+* [7th Vim](https://github.com/dofy/7th-vim)
 * [init.nvim](https://github.com/Blacksuan19/init.nvim)
 * [Janus](https://github.com/carlhuda/janus)
 * [spf13](https://github.com/spf13/spf13-vim)
 * [spacevim](https://github.com/SpaceVim/SpaceVim)
-* [7th Vim](https://github.com/dofy/7th-vim)
 
 ## Websites
 

@@ -132,6 +132,7 @@ Plugins organized by section and ordered alphabetically.
 * [Syntastic](https://github.com/scrooloose/syntastic)
 * [TmuxComplete](https://github.com/wellle/tmux-complete.vim)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+* [Vim-EasyComplete](https://github.com/jayli/vim-easycomplete)
 
 
 ## Language Specific

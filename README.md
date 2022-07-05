@@ -67,7 +67,7 @@ Plugins organized by section and ordered alphabetically.
 * [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 * [Repeat](https://github.com/tpope/vim-repeat)
 * [Surround](https://github.com/tpope/vim-surround)
-* [Surround-funk](https://github.com/Matt-A-Bennett/surround-funk.vim)
+* [Surround-funk](https://github.com/Matt-A-Bennett/vim-surround-funk)
 * [Tabular](https://github.com/godlygeek/tabular)
 * [Targets](https://github.com/wellle/targets.vim)
 * [TComment](https://github.com/tomtom/tcomment_vim)

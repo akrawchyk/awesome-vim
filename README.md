@@ -164,6 +164,7 @@ Plugins organized by section and ordered alphabetically.
 ### PHP
 
 * [PDV](https://github.com/tobyS/pdv)
+* [php.easy.vim](https://github.com/ta-tikoma/php.easy.vim)
 
 ### Python
 

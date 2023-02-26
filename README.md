@@ -20,7 +20,7 @@ Plugins organized by section and ordered alphabetically.
 
 * [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
-* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Learn Vimscript the Hard Way](https://web.archive.org/web/20230217065532/https://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Adventures](http://vim-adventures.com/)
 * [Vim Doctor](https://github.com/adembudak/vim-doctor)
 * [Vim Genius](http://www.vimgenius.com/)

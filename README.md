@@ -203,6 +203,8 @@ Plugins organized by section and ordered alphabetically.
 
 * [init.nvim](https://github.com/Blacksuan19/init.nvim)
 * [Janus](https://github.com/carlhuda/janus)
+* [LazyVim](https://github.com/LazyVim/LazyVim)
+* [LunarVim](https://github.com/lunarvim/lunarvim)
 * [spf13](https://github.com/spf13/spf13-vim)
 * [spacevim](https://github.com/SpaceVim/SpaceVim)
 

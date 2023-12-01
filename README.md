@@ -80,8 +80,8 @@ Plugins organized by section and ordered alphabetically.
 
 ### File Management
 
-* [nerdtree](https://github.com/preservim/nerdtree)
 * [Dirvish](https://github.com/justinmk/vim-dirvish)
+* [NERDTree](https://github.com/preservim/nerdtree)
 * [Vinegar](https://github.com/tpope/vim-vinegar)
 
 ### Git

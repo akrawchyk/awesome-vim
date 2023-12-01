@@ -31,7 +31,9 @@ Plugins organized by section and ordered alphabetically.
 
 
 ## Plugin Management
+
 * [Dein.vim](https://github.com/Shougo/dein.vim)
+* [lazy.nvim](https://github.com/folke/lazy.nvim)
 * [Neobundle](https://github.com/Shougo/neobundle.vim)
 * [Pathogen](https://github.com/tpope/vim-pathogen)
 * [VAM](https://github.com/MarcWeber/vim-addon-manager)

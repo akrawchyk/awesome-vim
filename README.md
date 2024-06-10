@@ -205,6 +205,7 @@ Plugins organized by section and ordered alphabetically.
 * [Janus](https://github.com/carlhuda/janus)
 * [LazyVim](https://github.com/LazyVim/LazyVim)
 * [LunarVim](https://github.com/lunarvim/lunarvim)
+* [NvChad](https://nvchad.com/)
 * [spf13](https://github.com/spf13/spf13-vim)
 * [spacevim](https://github.com/SpaceVim/SpaceVim)
 

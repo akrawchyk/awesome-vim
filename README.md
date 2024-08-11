@@ -100,6 +100,7 @@ Plugins organized by section and ordered alphabetically.
 * [vim-quickui](https://github.com/skywind3000/vim-quickui)
 * [Signify](https://github.com/mhinz/vim-signify)
 * [Startify](https://github.com/mhinz/vim-startify)
+* [Gardenal](https://github.com/BrunoCiccarino/gardenal)
 
 ### Searching
 

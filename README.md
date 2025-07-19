@@ -145,6 +145,10 @@ Plugins organized by section and ordered alphabetically.
 * [Codi](https://github.com/metakirby5/codi.vim)
 * [Polyglot](https://github.com/sheerun/vim-polyglot)
 
+### D2
+
+* [d2-vim](https://github.com/terrastruct/d2-vim)
+
 ### Golang
 
 * [vim-go](https://github.com/fatih/vim-go)

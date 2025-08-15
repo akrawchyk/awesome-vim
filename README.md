@@ -109,6 +109,7 @@ Plugins organized by section and ordered alphabetically.
 * [CtrlSF](https://github.com/dyng/ctrlsf.vim)
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim)
 * [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ([highly recommended](https://github.com/junegunn/fzf#tips) to use [fd](https://github.com/sharkdp/fd) and [ripgrep](https://github.com/BurntSushi/ripgrep))
+* [Fuzzbox](https://github.com/vim-fuzzbox/fuzzbox.vim)
 * [MRU](https://github.com/yegappan/mru)
 * [vim-codequery](https://github.com/devjoe/vim-codequery)
 * [zoxide.vim](https://github.com/nanotee/zoxide.vim)

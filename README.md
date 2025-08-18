@@ -40,6 +40,7 @@ Plugins organized by section and ordered alphabetically.
 * [VAM](https://github.com/MarcWeber/vim-addon-manager)
 * [Vim-plug](https://github.com/junegunn/vim-plug)
 * [Vundle](https://github.com/gmarik/Vundle.vim)
+* [Vim-Jetpack](https://github.com/tani/vim-jetpack)
 
 
 ## Colors

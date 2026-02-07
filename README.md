@@ -115,6 +115,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Task Running
 
+* [Android Nvim Plugin](https://github.com/iamironz/android-nvim-plugin)
 * [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 * [AsyncTasks](https://github.com/skywind3000/asynctasks.vim)
 * [Dispatch](https://github.com/tpope/vim-dispatch)

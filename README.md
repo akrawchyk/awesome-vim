@@ -10,10 +10,11 @@ Plugins organized by section and ordered alphabetically.
   4. [Tools](#tools)
   5. [Language Specific](#language-specific)
   6. [Framework Specific](#framework-specific)
-  7. [Distributions](#distributions)
-  8. [Websites](#websites)
-  9. [Contributing](#contributing)
-  10. [License](#license)
+  7. [AI](#ai)
+  8. [Distributions](#distributions)
+  9. [Websites](#websites)
+  10. [Contributing](#contributing)
+  11. [License](#license)
 
 
 ## Learning Vim
@@ -198,6 +199,12 @@ Plugins organized by section and ordered alphabetically.
 ### Rails
 
 * [Rails](https://github.com/tpope/vim-rails)
+
+
+## AI
+
+* [Vim-claude-code](https://github.com/rishi-opensource/vim-claude-code) - Claude CLI integration for Vim, enabling AI-powered coding workflows.
+
 
 ## Distributions
 

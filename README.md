@@ -2,6 +2,7 @@
 
 Plugins organized by section and ordered alphabetically.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Vim development workflow orchestration, automated editor pipeline management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
   1. [Learning Vim](#learning-vim)

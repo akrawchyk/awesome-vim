@@ -2,6 +2,7 @@
 
 Plugins organized by section and ordered alphabetically.
 
+- [fzf.vim](https://github.com/junegunn/fzf.vim) - Fuzzy file finder integration for Vim.
 ## Table of Contents
 
   1. [Learning Vim](#learning-vim)

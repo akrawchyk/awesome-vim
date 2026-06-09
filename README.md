@@ -20,6 +20,7 @@ Plugins organized by section and ordered alphabetically.
 
 * [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim)
+* [Training Wheels](https://github.com/bhagyas/vim-training-wheels) - Mode-aware Vim command hints in your statusline.
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Learning Vim (Chinese)](https://github.com/dofy/learn-vim)
 * [Vim Adventures](http://vim-adventures.com/)

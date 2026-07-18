@@ -145,6 +145,10 @@ Plugins organized by section and ordered alphabetically.
 * [Codi](https://github.com/metakirby5/codi.vim)
 * [Polyglot](https://github.com/sheerun/vim-polyglot)
 
+### BIRD
+
+* [BIRD.vim](https://github.com/bird-chinese-community/BIRD.vim)
+
 ### Golang
 
 * [vim-go](https://github.com/fatih/vim-go)

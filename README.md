@@ -39,6 +39,7 @@ Plugins organized by section and ordered alphabetically.
 * [Pathogen](https://github.com/tpope/vim-pathogen)
 * [VAM](https://github.com/MarcWeber/vim-addon-manager)
 * [Vim-plug](https://github.com/junegunn/vim-plug)
+* [vim-plugin-manager](https://github.com/log0u7/vim-plugin-manager)
 * [Vundle](https://github.com/gmarik/Vundle.vim)
 
 
@@ -205,6 +206,7 @@ Plugins organized by section and ordered alphabetically.
 * [Janus](https://github.com/carlhuda/janus)
 * [LazyVim](https://github.com/LazyVim/LazyVim)
 * [LunarVim](https://github.com/lunarvim/lunarvim)
+* [MyVim](https://github.com/log0u7/myvim)
 * [NvChad](https://nvchad.com/)
 * [spf13](https://github.com/spf13/spf13-vim)
 * [spacevim](https://github.com/SpaceVim/SpaceVim)

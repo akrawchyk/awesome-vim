@@ -29,6 +29,7 @@ Plugins organized by section and ordered alphabetically.
 * [Fortune vimtips](https://github.com/hobbestigrou/vimtips-fortune)
 * [Vim Galore](https://github.com/mhinz/vim-galore)
 * [PacVim](https://github.com/jmoon018/PacVim)
+* [hjkl](https://hjkl.duy.run)
 
 
 ## Plugin Management
